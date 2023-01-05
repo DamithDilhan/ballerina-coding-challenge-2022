@@ -1,0 +1,1 @@
+{"totalTests":4,"passed":4,"failed":0,"skipped":0,"tests":[{"name":"testConversion#\u0027case1\u0027","status":"PASSED"},{"name":"testConversion#\u0027case2\u0027","status":"PASSED"},{"name":"testInvalidInput#0","status":"PASSED"},{"name":"testInvalidInput#1","status":"PASSED"}]}
